@@ -3,8 +3,6 @@ This repository showcases various Deep Learning models and comparisons between d
 ## ANN Projects
 ### Handwritten Recognition
 - Implemented an Artificial Neural Network for recognizing handwritten digits using datasets like MNIST.
-### Churn Prediction
-- Developed an ANN model to predict customer churn in a telecom company based on historical data and customer attributes.
 
 ## Convolutional Neural Networks (CNN)
 
